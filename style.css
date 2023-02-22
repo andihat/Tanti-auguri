@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    color: aliceblue;
+}
+h2 {
+    color: aliceblue;
+}
+
+button {
+    background-color: aliceblue;
+    border-color: aqua;
+    border-radius: 20px;
+    padding: 20px;
+}
+.btnCon{
+    padding: 10px;
+}
+.emptySpace {
+    height: 400px;
+    display: grid;
+    place-content: center;
+
+}
